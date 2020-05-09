@@ -2,8 +2,9 @@
 
 
 ### Course: MTech (IS)
-### Contact: Sudalaiandi Raja Sudalaimuthu
-###          Jayaraman Revathi
+### Contact: 
+####		Sudalaiandi Raja Sudalaimuthu
+####		Jayaraman Revathi
 
 # Installation guideline
 
