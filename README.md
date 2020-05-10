@@ -58,6 +58,10 @@
 
 ![Motorcyclist without Helmet detection using Mask R-CNN](images/helmet_detection_mask.png)
 
+
+
+- 
+
 ## Citation
 ```
 @misc{matterport_maskrcnn_2017,
@@ -69,10 +73,3 @@
   howpublished={\url{https://github.com/matterport/Mask_RCNN}},
 }
 ```
-
-## Contributing
-Contributions to this repository are welcome. Examples of things you can contribute:
-* Speed Improvements. Like re-writing some Python code in TensorFlow or Cython.
-* Training on other datasets.
-* Accuracy Improvements.
-* Visualizations and examples.
