@@ -56,6 +56,7 @@
 
 - Execute helmet_detect.ipynb
 
+![Motorcyclist without Helmet detection using Mask R-CNN](images/helmet_detection_mask.png)
 
 ## Citation
 ```
